@@ -8,7 +8,7 @@
 
 **[Visit AxionLimit](http://axionlimit-frontend-1.s3-website.ap-south-1.amazonaws.com)**
 
-The application is deployed on AWS using S3, Application Load Balancer, EC2, and Amazon ElastiCache.
+The application is deployed on AWS using S3, Application Load Balancer, EC2, and Amazon ElastiCache. 
 
 ## Overview
 
