@@ -251,7 +251,7 @@ Open the local development URL provided by Vite.
 
 ## Author
 
-**Kiran Mukkamula**
+**Bonumahanti Prem Varaha Venkat Sai**
 
 B.Tech Computer Science and Engineering
 
